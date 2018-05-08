@@ -16,7 +16,8 @@
     "polymer": "https://github.com/Polymer/polymer.git#master",
     "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0",
     "polymer-decorators": "Polymer/polymer-decorators#^1.0",
-    "reflect-metadata": "rbuckton/reflect-metadata#^0.1.10"
+    "reflect-metadata": "rbuckton/reflect-metadata#^0.1.10",
+    "material-design-iconic-font": "^2.2.0"
   },
   "devDependencies": {
     "web-component-tester": "Polymer/web-component-tester#^6.0.0"
